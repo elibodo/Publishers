@@ -1,0 +1,44 @@
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe.config
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\bin\Debug\PublisherTable.pdb
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\bin\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.frmPublisherTable.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Resources.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.GenerateResource.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.pdb
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Publishers.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\obj\Debug\PublisherTable.About.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe.config
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.pdb
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.About.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.frmPublisherTable.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Resources.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Publishers.resources
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.GenerateResource.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.pdb
+C:\Users\Eli\Desktop\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.SplashScreen1.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe.config
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.pdb
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\bin\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbprojAssemblyReference.cache
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.About.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.frmPublisherTable.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Resources.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.Publishers.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.SplashScreen1.resources
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.GenerateResource.cache
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.vbproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.exe
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.xml
+C:\Users\Eli\Desktop\School\2019 Fall\Visual BASIC\PublisherTable\PublisherTable\PublisherTable\obj\Debug\PublisherTable.pdb
